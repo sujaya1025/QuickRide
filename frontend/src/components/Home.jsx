@@ -7,6 +7,8 @@ const Home = () => {
     "Are you a rental car? Because I’d love to take you home!",
     "Do you believe in love at first drive? Because I just found my dream ride!",
     "Are you a GPS? Because you always lead me in the right direction!",
+    "Are you a sports car? Because my heart races every time I see you.",
+    "Are you a V8 engine? Because you've got some serious power!",
   ];
 
   const homeStyles = {
