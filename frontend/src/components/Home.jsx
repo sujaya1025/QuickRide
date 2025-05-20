@@ -22,7 +22,7 @@ const Home = () => {
 
   const headingStyles = {
     fontSize: "2.5rem",
-    color: "#1E3A8A",
+    color: "#2563EB",
     fontWeight: "bold",
   };
 
